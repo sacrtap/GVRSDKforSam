@@ -1,0 +1,2 @@
+# GVRSDKforSam
+GVRSDK 0.8.5
