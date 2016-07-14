@@ -1,0 +1,3 @@
+target 'Panorama' do 
+  pod 'GVRSDK','0.8.1'
+end
